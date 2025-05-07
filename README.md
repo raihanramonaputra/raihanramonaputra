@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Raihan Ramona Putra👋
 
 <!--
 **raihanramonaputra/raihanramonaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![hii guys](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1pMXJqdW82ZG1paWQ1NWVwdHhnMWR2dXpkbXplaWg1bWVrbTNhaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bu6KDIpS4OFRP6o/giphy.gif)
