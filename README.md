@@ -1,4 +1,4 @@
-## Hi I'm Raihan Ramona Putra haha👋
+## Hi I'm Raihan Ramona Putra👋
 
 ![raihan](img/baru.png)
 
