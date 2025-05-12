@@ -16,7 +16,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Skills
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,mysql)](https://skillicons.dev)
-## Contact
+
+<!-- ## Contact
 [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,linkedin)](https://skillicons.dev)
+## Suka suka -->
+
+## Contact
+
+<div style="display: flex; gap: 10px; align-items: center;">
+
+  <a href="https://instagram.com/raihnn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+
+  <a href="raihanramona.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+
+  <a href="/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+</div>
