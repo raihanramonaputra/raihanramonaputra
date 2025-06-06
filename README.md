@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 <div style="display: flex; gap: 10px; align-items: center;">
 
-  <a href="https://instagram.com/raihnn" target="_blank">
+  <a href="https://www.instagram.com/raihnnrp" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 
-  <a href="raihanramona.com" target="_blank">
+  <a href="/" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 
