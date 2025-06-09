@@ -1,6 +1,6 @@
 ## Hi I'm Raihan Ramona Putra👋
 
-![raihan](img/baru.png)
+<!-- ![raihan](img/baru.png) -->
 
 <!--
 **raihanramonaputra/raihanramonaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
