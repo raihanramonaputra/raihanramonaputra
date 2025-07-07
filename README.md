@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 <!-- ## Contact
 [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,linkedin)](https://skillicons.dev)
