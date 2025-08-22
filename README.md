@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<<<<<<< HEAD
+=======
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+>>>>>>> 0c6af4112d82c39b1e899b63ccbf8cf74b3a57c1
 
 <!-- ## Contact
 [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,linkedin)](https://skillicons.dev)
