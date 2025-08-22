@@ -1,4 +1,19 @@
-## Hi I'm Raihan Ramona Putra👋
+## Hi I'm Raihan Ramona Putra👋 
+
+🚀 Saya seorang Frontend Developer yang suka membangun website modern, bersih, dan responsif. Saat ini saya sedang menempuh studi Teknik Informatika (S1) dan terus mengasah kemampuan di React.js, Tailwind CSS, dan desain UI modern. 
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
+## 📊 GitHub Stats  
+
+![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanramonaputra&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanramonaputra&layout=compact&theme=tokyonight)  
+
+![Raihan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raihanramonaputra&theme=tokyo-night)
+
+
 
 <!-- ![raihan](img/baru.png) -->
 
@@ -17,28 +32,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,mysql)](https://skillicons.dev)
 
 <!-- ## Contact
 [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,linkedin)](https://skillicons.dev)
 ## Suka suka -->
 
-## Contact
-
-<div style="display: flex; gap: 10px; align-items: center;">
-
-  <a href="https://www.instagram.com/raihnnrp" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-
-  <a href="/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-
-  <a href="/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-
-</div>
+## 
