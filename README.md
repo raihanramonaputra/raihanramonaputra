@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<<<<<<< HEAD
-=======
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
@@ -43,4 +42,3 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,linkedin)](https://skillicons.dev)
 ## Suka suka -->
 
-## 
