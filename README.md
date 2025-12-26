@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,laravel)](https://skillicons.dev)
 ## 📊 GitHub Stats  
 
-![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanramonaputra&show_icons=true&theme=tokyonight)  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanramonaputra&layout=compact&theme=tokyonight)  
 
