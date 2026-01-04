@@ -8,9 +8,6 @@
 ## 📊 GitHub Stats  
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanramonaputra&layout=compact&theme=tokyonight)  
-
 ![Raihan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raihanramonaputra&theme=tokyo-night)
 
 
