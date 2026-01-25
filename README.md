@@ -1,6 +1,6 @@
 ## Hi I'm Raihan Ramona Putra👋 
 
-🚀 Saya seorang Web Developer yang suka membangun website modern, bersih, dan responsif. Saat ini saya sedang menempuh studi Teknik Informatika (S1) dan terus mengasah kemampuan di React.js, Tailwind CSS, Nextjs, Laravel dan desain UI modern. 
+🚀 Aku Ora Reti
 
 ## Skills
 
