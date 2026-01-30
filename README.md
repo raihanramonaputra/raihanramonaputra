@@ -1,4 +1,4 @@
-## Hi I'm Raihan Ramona Putra👋 
+## Hi I'm Raihan 👋 
 
 🚀 Aku Ora Reti
 
