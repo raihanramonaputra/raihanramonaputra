@@ -1,15 +1,16 @@
-## Hi I'm Raihan 👋 
+## Hi, I'm Raihan 👋
 
-🚀 Aku Ora Reti
+> *"Aku Ora Reti"* — tapi tetap jalan terus dan ngulik sampai jalan. 🚀
 
-## Skills
+- 🔭 Sedang fokus di pengembangan **Full-Stack Web** (Laravel, Inertia.js, React, Next.js) & **IoT** (Arduino/ESP8266).
+- 🌐 Cek portofolio & proyek saya di **[raihanramona.my.id](https://raihanramona.my.id)**
+- 🌱 Tertarik dengan *Machine Learning* & pengembangan sistem informasi.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,laravel)](https://skillicons.dev)
-## 📊 GitHub Stats  
+### ⚡ Tech Stack
 
+**Frontend & Styling**  
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)
 
-![Raihan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raihanramonaputra&theme=tokyo-night)
-
-
-
+**Backend, Database & Hardware**  
+![Backend](https://skillicons.dev/icons?i=laravel,php,mysql,arduino,git,github)
 
